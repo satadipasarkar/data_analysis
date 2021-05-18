@@ -23,5 +23,10 @@ Bank Marketing Campaign Analysis
 
 Link:https://github.com/satadipasarkar/Marketing-Campaign-Analysis
 
+Study of Unemployment due to COVID-19
+
+Link:https://github.com/satadipasarkar/Effect-of-COVID-19-on-employment
+
 Thanks   
 Satadipa
+
