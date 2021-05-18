@@ -27,6 +27,10 @@ Study of Unemployment due to COVID-19
 
 Link:https://github.com/satadipasarkar/Effect-of-COVID-19-on-employment
 
+Social media statistics and Usage Pattern during COVID-19
+
+Link:https://github.com/satadipasarkar/Social-Media-Statistics
+
 Thanks   
 Satadipa
 
