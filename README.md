@@ -9,5 +9,8 @@ Tools used are:
 <img alt="Pandas" src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" width="200" height="66">
 <img alt="Jupyter Notebook" src="https://jupyter.org/assets/nav_logo.svg" width="200" height="66">
 
+Projects
+Twitter Sentiment Analysis : Link:https://github.com/satadipasarkar/Twitter_sentiment_analysis_big_data_project
+
 Thanks   
 Satadipa
